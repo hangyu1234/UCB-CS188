@@ -426,3 +426,4 @@ if __name__ == '__main__':
             gsOutput=options.gsOutput,
             edxOutput=options.edxOutput, muteOutput=options.muteOutput, printTestCase=options.printTestCase,
             questionToGrade=options.gradeQuestion, display=getDisplay(options.gradeQuestion!=None, options))
+
